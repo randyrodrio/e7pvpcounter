@@ -7462,6 +7462,18 @@ const Eu = {
               icon: "c4035_s.png"
           }
       },
+      "Captain Navy Landy": {
+        _id: "candy",
+        name: "Captain Navy Landy",
+        moonlight: !0,
+        rarity: 5,
+        attribute: "light",
+        role: "knight",
+        zodiac: "bull",
+        assets: {
+          icon: "candy.png"
+        }
+      },
       "Commander Pavel": {
           _id: "commander-pavel",
           name: "Commander Pavel",
@@ -9271,6 +9283,11 @@ const eg = [{
       id: "achates",
       list1: ["aramintha", "baal-sezan", "basar", "briar-witch-iseria", "death-dealer-ray", "dizzy", "holiday-yufine", "leo", "mui", "researcher-carrot", "Senya", "sharun", "solitaria-of-the-snow", "tenebria"],
       list2: [],
+      dd: !1
+  }, {
+      id: "candy",
+      list1: ["ambitious-tywin", "assassin-cidd", "celine", "cidd", "hwayoung", "remnant-violet", "specter-tenebria", "zahhak", "zio", "kise", "spirit-eye-celine", "milim", "top-model-luluca"],
+      list2: ["rimuru"],
       dd: !1
   }, {
       id: "adventurer-ras",
