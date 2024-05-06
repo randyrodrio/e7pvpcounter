@@ -9301,8 +9301,7 @@ const eg = [{
       list1: [],
       list2: [],
       dd: !1
-  }, 
-     {
+  }, {
       id: "lethe",
       list1: [],
       list2: [],
