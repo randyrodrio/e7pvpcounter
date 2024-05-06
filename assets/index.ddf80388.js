@@ -7474,6 +7474,18 @@ const Eu = {
           icon: "candy.png"
         }
       },
+      "Ainz": {
+        _id: "ainz",
+        name: "Ainz",
+        moonlight: !0,
+        rarity: 5,
+        attribute: "dark",
+        role: "mage",
+        zodiac: "bull",
+        assets: {
+          icon: "ainz.png"
+        }
+      },
       "Lethe": {
         _id: "lethe",
         name: "Lethe",
@@ -9326,6 +9338,11 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "ainz",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
       id: "albedo",
       list1: [],
       list2: [],
