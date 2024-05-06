@@ -9307,8 +9307,7 @@ const eg = [{
       list1: [],
       list2: [],
       dd: !1
-     }   
-    {
+     },{
       id: "adventurer-ras",
       list1: ["ambitious-tywin", "assassin-cidd", "celine", "cidd", "hwayoung", "remnant-violet", "specter-tenebria", "zahhak", "zio", "kise", "spirit-eye-celine", "milim", "top-model-luluca"],
       list2: ["rimuru"],
