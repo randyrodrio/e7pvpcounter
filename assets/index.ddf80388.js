@@ -7495,7 +7495,7 @@ const Eu = {
         role: "assassin",
         zodiac: "bull",
         assets: {
-          icon: "janua.png"
+          icon: "jenua.png"
         }
     },
       "Commander Pavel": {
