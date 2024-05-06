@@ -7474,6 +7474,18 @@ const Eu = {
           icon: "candy.png"
         }
       },
+      "Urban Shadow Choux": {
+        _id: "mlchoux",
+        name: "Urban Shadow Choux",
+        moonlight: !0,
+        rarity: 5,
+        attribute: "dark",
+        role: "warrior",
+        zodiac: "bull",
+        assets: {
+          icon: "mlchoux.png"
+        }
+      },
       "Laia": {
         _id: "laia",
         name: "Laia",
@@ -9398,6 +9410,11 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "mlchoux",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
     id: "mglilias",
     list1: [],
     list2: [],
