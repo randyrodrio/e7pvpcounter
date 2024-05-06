@@ -7492,7 +7492,7 @@ const Eu = {
         moonlight: !1,
         rarity: 5,
         attribute: "Fire",
-        role: "thief",
+        role: "assassin",
         zodiac: "bull",
         assets: {
           icon: "janua.png"
