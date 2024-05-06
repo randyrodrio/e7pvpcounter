@@ -7474,6 +7474,18 @@ const Eu = {
           icon: "candy.png"
         }
       },
+      "Sea Phantom Politis": {
+        _id: "mlpolitis",
+        name: "Sea Phantom Politis",
+        moonlight: !0,
+        rarity: 5,
+        attribute: "dark",
+        role: "ranger",
+        zodiac: "bull",
+        assets: {
+          icon: "mlpolitis.png"
+        }
+      },
       "Eternal Wanderer Ludwig": {
         _id: "mlludwig",
         name: "Eternal Wanderer Ludwig",
@@ -9434,6 +9446,11 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "mlpolitis",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
     id: "mlludwig",
     list1: [],
     list2: [],
