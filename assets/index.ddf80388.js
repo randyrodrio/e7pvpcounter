@@ -7498,6 +7498,18 @@ const Eu = {
           icon: "jenua.png"
         }
     },
+    "Albedo": {
+        _id: "albedo",
+        name: "Albedo",
+        moonlight: !1,
+        rarity: 5,
+        attribute: "Wind",
+        role: "knight",
+        zodiac: "bull",
+        assets: {
+          icon: "albedo.png"
+        }
+    },
       "Commander Pavel": {
           _id: "commander-pavel",
           name: "Commander Pavel",
@@ -9310,6 +9322,11 @@ const eg = [{
       dd: !1
   }, {
       id: "candy",
+      list1: [],
+      list2: [],
+      dd: !1
+  }, {
+      id: "albedo",
       list1: [],
       list2: [],
       dd: !1
