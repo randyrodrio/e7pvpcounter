@@ -7474,6 +7474,18 @@ const Eu = {
           icon: "candy.png"
         }
       },
+      "Byblis": {
+        _id: "byblis",
+        name: "Byblis",
+        moonlight: !1,
+        rarity: 5,
+        attribute: "ice",
+        role: "ranger",
+        zodiac: "bull",
+        assets: {
+          icon: "byblis.png"
+        }
+      },
       "Ainz": {
         _id: "ainz",
         name: "Ainz",
@@ -9350,6 +9362,11 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "byblis",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
     id: "brieg",
     list1: [],
     list2: [],
