@@ -7474,6 +7474,18 @@ const Eu = {
           icon: "candy.png"
         }
       },
+      "Eternal Wanderer Ludwig": {
+        _id: "mlludwig",
+        name: "Eternal Wanderer Ludwig",
+        moonlight: !0,
+        rarity: 5,
+        attribute: "dark",
+        role: "mage",
+        zodiac: "bull",
+        assets: {
+          icon: "mlludwig.png"
+        }
+      },
       "Urban Shadow Choux": {
         _id: "mlchoux",
         name: "Urban Shadow Choux",
@@ -9422,6 +9434,11 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "mlludwig",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
     id: "blidica",
     list1: [],
     list2: [],
