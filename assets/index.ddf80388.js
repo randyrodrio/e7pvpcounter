@@ -7474,6 +7474,18 @@ const Eu = {
           icon: "candy.png"
         }
       },
+      "Elvira": {
+        _id: "elvira",
+        name: "Elvira",
+        moonlight: !1,
+        rarity: 5,
+        attribute: "ice",
+        role: "thief",
+        zodiac: "bull",
+        assets: {
+          icon: "elvira.png"
+        }
+      },
       "Byblis": {
         _id: "byblis",
         name: "Byblis",
@@ -9362,6 +9374,11 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "elvira",
+    list1: [],
+    list2: [],
+    dd: !1
+},  {
     id: "byblis",
     list1: [],
     list2: [],
