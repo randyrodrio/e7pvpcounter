@@ -7474,6 +7474,18 @@ const Eu = {
           icon: "candy.png"
         }
       },
+      "Requiem Roana": {
+        _id: "mlroana",
+        name: "Requiem Roana",
+        moonlight: !0,
+        rarity: 5,
+        attribute: "dark",
+        role: "mage",
+        zodiac: "bull",
+        assets: {
+          icon: "mlroana.png"
+        }
+      },
       "Sea Phantom Politis": {
         _id: "mlpolitis",
         name: "Sea Phantom Politis",
@@ -9446,6 +9458,11 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "mlroana",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
     id: "mlpolitis",
     list1: [],
     list2: [],
