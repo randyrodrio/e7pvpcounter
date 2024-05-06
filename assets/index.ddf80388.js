@@ -7486,6 +7486,18 @@ const Eu = {
           icon: "laia.png"
         }
       },
+      "Midnight Gala Lilias": {
+        _id: "mglilias",
+        name: "Midnight Gala Lilias",
+        moonlight: !1,
+        rarity: 5,
+        attribute: "wind",
+        role: "assassin",
+        zodiac: "bull",
+        assets: {
+          icon: "midnightlilias.png"
+        }
+      },
       "Elvira": {
         _id: "elvira",
         name: "Elvira",
@@ -9386,6 +9398,11 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "mglilias",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
     id: "laia",
     list1: [],
     list2: [],
