@@ -7486,6 +7486,18 @@ const Eu = {
           icon: "lethe.png"
         }
     },
+    "Janua": {
+        _id: "janua",
+        name: "Janua",
+        moonlight: !1,
+        rarity: 5,
+        attribute: "Fire",
+        role: "thief",
+        zodiac: "bull",
+        assets: {
+          icon: "janua.png"
+        }
+    },
       "Commander Pavel": {
           _id: "commander-pavel",
           name: "Commander Pavel",
@@ -9306,7 +9318,12 @@ const eg = [{
       list1: [],
       list2: [],
       dd: !1
-     },
+     }, {
+        id: "janua",
+        list1: [],
+        list2: [],
+        dd: !1
+       },
      {
       id: "adventurer-ras",
       list1: ["ambitious-tywin", "assassin-cidd", "celine", "cidd", "hwayoung", "remnant-violet", "specter-tenebria", "zahhak", "zio", "kise", "spirit-eye-celine", "milim", "top-model-luluca"],
