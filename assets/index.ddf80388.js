@@ -7499,7 +7499,7 @@ const Eu = {
         }
       },
       "Nahkwol": {
-        _id: "mlsharun",
+        _id: "nahkwol",
         name: "Nahkwol",
         moonlight: !1,
         rarity: 5,
