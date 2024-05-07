@@ -7474,6 +7474,54 @@ const Eu = {
           icon: "candy.png"
         }
       },
+      "Dragon King Sharun": {
+        _id: "mlsharun",
+        name: "Dragon King Sharun",
+        moonlight: !0,
+        rarity: 5,
+        attribute: "light",
+        role: "manauser",
+        zodiac: "bull",
+        assets: {
+          icon: "mlsharun.png"
+        }
+      },
+      "Abyssal Yufine": {
+        _id: "mlyufine",
+        name: "Abyssal Yufine",
+        moonlight: !0,
+        rarity: 5,
+        attribute: "dark",
+        role: "knight",
+        zodiac: "bull",
+        assets: {
+          icon: "mlyufine.png"
+        }
+      },
+      "Nahkwol": {
+        _id: "mlsharun",
+        name: "Nahkwol",
+        moonlight: !1,
+        rarity: 5,
+        attribute: "fire",
+        role: "ranger",
+        zodiac: "bull",
+        assets: {
+          icon: "nahkwol.png"
+        }
+      },
+      "Shalltear": {
+        _id: "shalltear",
+        name: "Shalltear",
+        moonlight: !1,
+        rarity: 5,
+        attribute: "fire",
+        role: "warrior",
+        zodiac: "bull",
+        assets: {
+          icon: "shalltear.png"
+        }
+      },
       "Requiem Roana": {
         _id: "mlroana",
         name: "Requiem Roana",
@@ -7564,7 +7612,7 @@ const Eu = {
         moonlight: !1,
         rarity: 5,
         attribute: "ice",
-        role: "thief",
+        role: "assassin",
         zodiac: "bull",
         assets: {
           icon: "elvira.png"
@@ -9458,6 +9506,26 @@ const eg = [{
       list2: [],
       dd: !1
   }, {
+    id: "mlsharun",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
+    id: "mlyufine",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
+    id: "nahkwol",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
+    id: "shalltear",
+    list1: [],
+    list2: [],
+    dd: !1
+}, {
     id: "mlroana",
     list1: [],
     list2: [],
