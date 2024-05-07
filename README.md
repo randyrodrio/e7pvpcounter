@@ -29,4 +29,4 @@ No filtering from "Select units" step - unchecked units will  appear in recommen
 
 
 ## Contacts
-Any bugs can be reported to Charo#7195
+Any bugs can be reported to: randyrodrio  ~discord
